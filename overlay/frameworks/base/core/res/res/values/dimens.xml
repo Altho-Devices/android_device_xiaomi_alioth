@@ -18,8 +18,8 @@
        <dimen name="rounded_corner_radius_top">28.0dip</dimen>
        <dimen name="rounded_corner_radius_bottom_adjustment">28.0dip</dimen>
        <dimen name="rounded_corner_radius_bottom">28.0dip</dimen>
-       <dimen name="rounded_corner_radius_adjustment">28.0dip</dimen>
-       <dimen name="rounded_corner_radius">52.0px</dimen>
-       <dimen name="status_bar_height">100px</dimen>
+       <dimen name="rounded_corner_radius_adjustment">20.0dip</dimen>
+       <dimen name="rounded_corner_radius">115.0px</dimen>
+       <dimen name="status_bar_height">95px</dimen>
 
 </resources>
